@@ -1,8 +1,6 @@
 # Streaming-data-with-Kafka-Spark
 
-# kafka-spark-streaming-integration
-
------ Useful Commands to execute the project on windows 
+++Useful Commands to execute the project on windows 
 
 STEP 1: START THE KAFKA ENVIRONMENT
 # Start the ZooKeeper service
